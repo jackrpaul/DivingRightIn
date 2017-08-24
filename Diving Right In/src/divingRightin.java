@@ -10,7 +10,7 @@ public class divingRightin
 				greetUser();
 				describeAge();
 				generateDogAge();
-				generateNumberOfLeapYears();
+				//generateNumberOfLeapYears();
 			}
 
 		public static void greetUser()
@@ -66,8 +66,8 @@ public class divingRightin
 				int dogAge = currentAge * 7;
 				System.out.println("Your age in dog years is " + dogAge + ".");
 			}
-		public static void generateNumberOfLeapYears()
-			{
+		//public static void generateNumberOfLeapYears()
+			//{
 				
-			}
+			//}
 	}
