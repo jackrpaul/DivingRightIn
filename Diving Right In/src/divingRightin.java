@@ -65,6 +65,7 @@ public class divingRightin
 			{
 				int dogAge = currentAge * 7;
 				System.out.println("Your age in dog years is " + dogAge + ".");
+				System.out.println("I'm home right now!");
 			}
 		//public static void generateNumberOfLeapYears()
 			//{
